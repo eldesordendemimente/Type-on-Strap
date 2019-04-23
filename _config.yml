@@ -17,7 +17,7 @@ theme_settings:
   header_text: El desorden de mi mente
   header_feature_image: assets/img/cabecera.jpeg
   footer_text: >
-    Basado en <a href="https://jekyllrb.com/">Jekyll</a> y el theme <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>. ¡Gracias!
+    Basado en <a href="https://jekyllrb.com/">Jekyll</a>. Theme: <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>. ¡Gracias!
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
