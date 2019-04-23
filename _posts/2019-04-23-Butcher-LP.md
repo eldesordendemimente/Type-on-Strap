@@ -14,9 +14,9 @@ Canciones destacadas:
 * Fukk we are death
 Enlace a google [link] (https://google.es) y continuo escribiendo
 Imagen ![Título alternativo] (https://ep02.epimg.net/cincodias/imagenes/2019/04/16/lifestyle/1555415131_951349_1555415194_miniatura_normal.jpg)
-<div id="botonSpoiler">
+<button id="botonSpoiler">
   Spoiler
- </div>
+ </button>
 <div id="contenidoSpoiler">
   Contenido spoiler
   </div>
