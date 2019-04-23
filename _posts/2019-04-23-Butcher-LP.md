@@ -14,10 +14,10 @@ Canciones destacadas:
 * Fukk we are death
 Enlace a google [link] (https://google.es) y continuo escribiendo
 Imagen ![Título alternativo] (https://ep02.epimg.net/cincodias/imagenes/2019/04/16/lifestyle/1555415131_951349_1555415194_miniatura_normal.jpg)
-<button id="botonSpoiler">
+<p><button class="botonSpoiler">
   Spoiler
- </button>
-<div id="contenidoSpoiler">
+ </button></p>
+<div class="contenidoSpoiler">
   Contenido spoiler
   </div>
   <p><img src="https://ep02.epimg.net/cincodias/imagenes/2019/04/16/lifestyle/1555415131_951349_1555415194_miniatura_normal.jpg"></p>
