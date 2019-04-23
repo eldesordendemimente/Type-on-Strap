@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: El desorden de mi mente
-  header_feature_image: assets/img/pexels/triangular.jpeg
+  header_feature_image: assets/img/cabecera.jpeg
   footer_text: >
     Basado en <a href="https://jekyllrb.com/">Jekyll</a> y el theme <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>. ¡Gracias!
 
@@ -59,7 +59,7 @@ theme_settings:
 
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  disqus_shortname: eldesordendemimente
   katex: true # Enable if using math markup
   
   special_page:
@@ -78,11 +78,11 @@ theme_settings:
   str_email: "Email"
   str_tweet: "Tweet"
   str_pin_it: "Pin it"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  str_next_post: "Siguiente"
+  str_previous_post: "Anterior"
+  str_next_page: "Siguiente"
+  str_previous_page: "Anterior"
+  str_javascript_required_disqus: "Por favor, activa JavaScript para ver los comentarios."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
