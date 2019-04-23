@@ -9,7 +9,7 @@ description: "El desorden de mi mente: punk, hardcore, metal, cine y más músic
 theme_settings:
   # Meta
   title: El desorden de mi mente # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/avatar.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
