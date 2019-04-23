@@ -60,15 +60,15 @@ theme_settings:
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname: eldesordendemimente
-  katex: true # Enable if using math markup
+  katex: # Enable if using math markup
   
   special_page:
     search: 
       icon: "search"
-      enabled: true
+      enabled:
     tags:
       icon: "tags"
-      enabled: true
+      enabled:
   
   # Localization strings
   str_follow_on: "Follow on"
